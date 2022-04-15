@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Image">
+    <file>Static/téléchargement.png</file>
+    <file>Static/1381227.webp</file>
+  </qresource>
+</RCC>
